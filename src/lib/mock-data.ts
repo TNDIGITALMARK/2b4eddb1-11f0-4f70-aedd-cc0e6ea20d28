@@ -50,7 +50,7 @@ export const mockCards: PokemonCard[] = [
       market: 85.50,
       trend: 'up'
     },
-    image: '/api/placeholder/300/420',
+    image: '/generated/charizard-vmax.png',
     condition: 'Near Mint',
     owner: 'TrainerAsh92',
     isForTrade: true,
@@ -66,7 +66,7 @@ export const mockCards: PokemonCard[] = [
       market: 42.00,
       trend: 'stable'
     },
-    image: '/api/placeholder/300/420',
+    image: '/generated/pikachu-vmax.png',
     condition: 'Mint',
     owner: 'CardMasterMisty',
     isForTrade: true,
@@ -82,7 +82,7 @@ export const mockCards: PokemonCard[] = [
       market: 65.25,
       trend: 'down'
     },
-    image: '/api/placeholder/300/420',
+    image: '/generated/umbreon-vmax.png',
     condition: 'Near Mint',
     owner: 'EliteFourBrock',
     isForTrade: false,
@@ -98,7 +98,7 @@ export const mockCards: PokemonCard[] = [
       market: 30.50,
       trend: 'up'
     },
-    image: '/api/placeholder/300/420',
+    image: '/generated/rayquaza-v.png',
     condition: 'Mint',
     isForTrade: true,
     tradeValue: 30
@@ -113,7 +113,7 @@ export const mockCards: PokemonCard[] = [
       market: 14.75,
       trend: 'stable'
     },
-    image: '/api/placeholder/300/420',
+    image: '/generated/leafeon-v.png',
     condition: 'Near Mint',
     isForTrade: true,
     tradeValue: 14
@@ -128,7 +128,7 @@ export const mockCards: PokemonCard[] = [
       market: 16.25,
       trend: 'up'
     },
-    image: '/api/placeholder/300/420',
+    image: '/generated/glaceon-v.png',
     condition: 'Mint',
     isForTrade: true,
     tradeValue: 16
